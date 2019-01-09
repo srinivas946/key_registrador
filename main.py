@@ -19,8 +19,8 @@ parser.add_argument('--email', '-e', nargs='?', const=1, help="User Email Addres
 parser.add_argument('--password', '-p', nargs='?', const=1, help="User Email Password")
 parser.add_argument('--fps', '-F', nargs='?', const=1, help="Frames Per Second")
 parser.add_argument('--capture', '-c', nargs='?', const=1, help="Capture Screen Set True / False")
-parser.add_argument('--capturetime', '-t', nargs='?', const=1, help="Capture Screen Set True / False")
-parser.add_argument('--mailduration', '-D', nargs='?', const=1, help="Capture Screen Set True / False")
+parser.add_argument('--capturetime', '-t', nargs='?', const=1, help="Set time to Screen Recorder")
+parser.add_argument('--mailduration', '-D', nargs='?', const=1, help="Set frequent Mail time in secs")
 parser.add_argument('--stop', '-S', nargs='?', const=1, help="Stops the Program execution based on give time in seconds")
 args = parser.parse_args()
 
