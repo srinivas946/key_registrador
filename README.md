@@ -57,6 +57,7 @@ Required packages for using this tool
 - Using this tool you can get the logs from keyboard, mouse and also take screen shots, Screen Recorder and send the details to the mail provided by the user at run time<br/>
 - Screen Shots are captured based on the keywords, external KeywordFile.txt is provided to add the keywords<br/>
 - Use less value for FPS (Frames Per Second) in screen recording. If you provided more fps, it will consume more memory and delay in sending mail to user (consume more memory and internet)
+- Set a frequent mail time, for example if you set mailduration as 10 secs for every 10 secs user will get the mail with respective details
 
 ## Kind Request:
 This tool is desined only for gaining knowledge/awareness on how keyloggers work in real time. So its my kind request, do not use it for illegal purposes
